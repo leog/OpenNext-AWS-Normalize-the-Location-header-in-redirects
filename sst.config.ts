@@ -82,7 +82,7 @@ export default {
             ],
           },
         },
-        openNextVersion: "3.5.6",
+        openNextVersion: "3.7.2",
       });
 
       // Show the CF distribution domain name in the output
